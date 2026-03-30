@@ -1,2 +1,10 @@
 # Graph-Algorithms-Visualizer
-A project that shows essential CS algorithms visualized in C++ code
+A project that shows essential CS algorithms visualized in C++ code. This project was origionally based on a youtube video that caught my eye where I wanted to replicate it in my own code and learn many new coding operations and algorithms. The video is this link: https://www.youtube.com/watch?v=W1qvb86YOK0, where his code is also in the description, however as anyone can see, our codes and methods of reaching a similar solution is vastly different, but still with the same algorithm concepts and SFML use. 
+
+I decided to build this project because I wanted to learn more about coding algorithms and how I could implement them into C++ code, as well as demonstrate my knowledge of many C++ concepts such as object oriented programming, data structures, and how to implement math such as Euclidean formula, distance formula, slope, Pythagorean theorem, and more. 
+
+My learning of SFML is also to show that I am willing to learn and work hard to learning new things and problem solving. I also learned a lot from this project, such as things such as unordered maps, priority queues, Vector2f(an SFML function), how to implement structs and enum classes, how to shorten code and make typing it more effecient, also being my first big project learned how to sort files well and comment clearly so anyone can understand what is going on in the code. I used some AI for the purpose of learning and optimization, however it was mainly concept only, I kept any copy and pasting to a minimum. 
+
+Overall this was a very stretching project in which I spent well over 60 hours programming. Being my first bigger project, if I were to do it again I'm sure that I would be able to complete it in a much faster time, however in order to learn how to code takes time and mental bandwidth, which I am also optimizing day after day. 
+
+Hopefully you enjoyed my code and my final product!
